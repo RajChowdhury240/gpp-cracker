@@ -8,10 +8,12 @@
 pip3 install gpp-cracker
 ```
 
+![image](https://github.com/user-attachments/assets/7a2368b8-b728-43f9-936b-b773528835ed)
+
+
 ## Usage
 
 ```sh
 gpp-cracker -f groups.xml
 ```
 
-![image](https://github.com/user-attachments/assets/56581793-5be2-4d4d-a9a9-7958f070130b)
